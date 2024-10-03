@@ -2,7 +2,7 @@
 
 ## Dashboard 
 
-![Crowdfunding Campaign Analysis ](excel project dashboard 1.png)
+![Crowdfunding Campaign Analysis ](excel_project_dashboard.png)
 
 ## Overview
 
@@ -32,6 +32,6 @@ Based on this trend, we can decide when to start working on our projects and ini
 
 Thank you!
 
-Author:
+Author
 
 Stuti Poudel
